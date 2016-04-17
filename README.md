@@ -1,4 +1,6 @@
-- 在 http://try.jquery.com/ 学习jquery的笔记。主要记录学习过程中的错误。
+﻿###jquery学习笔记
+
+- 在 http://try.jquery.com/ 学习jquery的笔记。
 
 - jquery api: http://api.jquery.com/
 
